@@ -1,0 +1,32 @@
+{
+  "locations": {
+    "start": {
+      "description": "<i>Начало истории...</i>\n"
+    },
+    "scene1": {
+      "description": "<i>Необитаемый остров</i>\uD83C\uDFDD\n"
+    },
+    "scene2": {
+      "description": "<i>Лес на острове...</i>"
+    },
+    "scene3": {
+      "description": "<i>Лес на острове...</i>"
+    },
+    "scene4": {
+      "description": "<i>Стройка шалаша...</i>"
+    },
+    "scene5": {
+      "description": "<i>Это победа\uD83C\uDFC6</i>"
+    },
+    "scene6": {
+      "description": "<i>Game Over...</i>"
+    },
+    "scene7": {
+      "description": "<i>Лес на острове...</i>"
+    },
+    "scene8": {
+      "description": "<i>Крик о помощи...</i>"
+    }
+  }
+}
+
