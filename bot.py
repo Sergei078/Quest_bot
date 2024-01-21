@@ -146,7 +146,7 @@ def quest_forest(message):
                 data = json.load(json_file)
             loc10 = data['locations']['scene5']['description']
             bot.send_photo(message.chat.id, img21, loc10, parse_mode='html')
-            bot.send_audio(message.chat.id, audio21, reply_markup=markup_quest7)
+            bot.send_audio(message.chat.id, audio21, reply_markup=markup_menu1)
         elif message.text == "Не делать огонь":
             img = Image()
             audio = Audio()
