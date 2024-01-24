@@ -4,7 +4,7 @@ import json
 from Buttons import (markup_quest, markup_quest1, markup_quest0, markup_quest5,
                      markup_menu1, markup_menu2, markup_quest7)
 
-bot = telebot.TeleBot("6524252328:AAEnG0LVC_WLRUCvnBuVELU06Eu82fMN8UA")
+bot = telebot.TeleBot("")
 
 
 @bot.message_handler(commands=['start'])
